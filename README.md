@@ -8,14 +8,12 @@ This project provides a **Python-based pipeline** to verify whether an image is 
 The pipeline can run in two modes:
 - **QR verification first** (preferred if the QR is present and readable)
 - **Fallback to Logo + Text verification** if QR fails.
-
 ----
 ## Features
 - Detects Aadhaar card using **QR code**.
 - Detects Aadhaar card using **logo and OCR** as fallback.
 - Returns the **Aadhaar number** if successfully verified.
 ---
-
 ## Requirements
 
 - Python 3.x
@@ -23,3 +21,4 @@ The pipeline can run in two modes:
 - Pyzbar (`pyzbar`)
 - Tesseract OCR (`pytesseract`)
 - NumPy
+---
