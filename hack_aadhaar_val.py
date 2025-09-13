@@ -113,8 +113,8 @@ def verify_aadhaar_card(image_path, logo_path):
 
 # ------------------ Example Usage ------------------
 if __name__ == "__main__":
-    image_path = "/content/6.png" 
-    logo_path = "/content/template.jpg"
+    image_path = "test.png" 
+    logo_path = "template.jpg"
 
     result = verify_aadhaar_card(image_path, logo_path)
     print(result)
