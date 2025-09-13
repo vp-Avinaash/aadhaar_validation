@@ -1,4 +1,3 @@
---- 
 ## Aadhaar Card Verification Pipeline 
 
 This project provides a **Python-based pipeline** to verify whether an image is an Aadhaar card or not. The verification is based on:
