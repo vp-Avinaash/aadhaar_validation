@@ -23,8 +23,3 @@ The pipeline can run in two modes:
 - Pyzbar (`pyzbar`)
 - Tesseract OCR (`pytesseract`)
 - NumPy
-
-Install dependencies using:
-
-```bash
-pip install opencv-python pyzbar pytesseract numpy
