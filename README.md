@@ -25,7 +25,7 @@ The pipeline can run in two modes:
 
 ## Usage
 from hack_aadhaar_val import verify_aadhaar_card
-
+```bash
 input_image = "input_aadhaar.jpg"
 logo_image = "template.png"
 result = verify_aadhaar_card(input_image, logo_image)
