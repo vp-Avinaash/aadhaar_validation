@@ -23,7 +23,7 @@ The pipeline can run in two modes:
 - NumPy
 ---
 
-##Usage
+## Usage
 from hack_aadhaar_val import verify_aadhaar_card
 
 input_image = "input_aadhaar.jpg"
