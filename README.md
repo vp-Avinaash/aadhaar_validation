@@ -1,4 +1,5 @@
---- Aadhaar Card Verification Pipeline 
+--- 
+Aadhaar Card Verification Pipeline 
 
 This project provides a **Python-based pipeline** to verify whether an image is an Aadhaar card or not. The verification is based on:
 1. **QR Code Check**: Reads the QR code on the Aadhaar card and extracts the UID and other info.  
